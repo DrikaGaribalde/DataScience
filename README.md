@@ -1,1 +1,1 @@
-# DataScience_StackAcademy
+# Repositório de estudo para o Data Science Stack Academy 
